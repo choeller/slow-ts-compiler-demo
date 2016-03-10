@@ -6,7 +6,9 @@ Just do
 
 
 `npm install`
+
 `cd src`
+
 `../node_modules/typescript/bin/tsc --diagnostics`
 
 This should print something like:
